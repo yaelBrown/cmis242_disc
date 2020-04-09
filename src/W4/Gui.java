@@ -1,10 +1,4 @@
-/**
- * File: Gui.java
- *Author: David Pierre
- *Date April 6, 2020
- *Purpose: This Age Calculator calculates the user's age from the user's date of birth with
- *the current year.
- */
+
 
 //Event listen for the button
 import java.awt.event.ActionEvent;
